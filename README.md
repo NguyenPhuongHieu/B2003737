@@ -12,10 +12,10 @@
 ## Nguyễn Phương Hiếu
 #MSSV: B2003737
 
-## Dự án
+## Bài tập nhom
 
 ```bash
-printf("Hello, World!");
+echo "Quản lý cửa hàng bán sách";
 ```
 
 
